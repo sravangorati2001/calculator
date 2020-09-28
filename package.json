@@ -2,7 +2,7 @@
   "name": "firstproject",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sravangorati2001.github.io/calculator",
+  "homepage": "https://sravangorati2001.github.io/calculator",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
